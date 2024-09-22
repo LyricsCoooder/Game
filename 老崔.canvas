@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"b5d7e5518df34dfe","x":-273,"y":-270,"width":250,"height":60,"type":"text","text":"大萨达撒大声地撒"}
+		{"id":"b5d7e5518df34dfe","type":"text","text":"大萨达撒大声地撒","x":-273,"y":-270,"width":250,"height":60},
+		{"id":"e2a35180540c4e2a","x":-273,"y":-160,"width":250,"height":60,"color":"1","type":"text","text":"李睿珂"}
 	],
 	"edges":[]
 }
