@@ -15,9 +15,9 @@
               "state": {
                 "file": "Lyrics.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": -2.333333333333333
+                  "x": 4319.121571502596,
+                  "y": -775.3836916503463,
+                  "zoom": -0.6666666666666667
                 }
               }
             }
@@ -151,10 +151,10 @@
   },
   "active": "87b34795e235e7bc",
   "lastOpenFiles": [
-    "御寒.canvas",
-    "老崔.canvas",
-    "Lyrics.canvas",
     "ModCard.png",
+    "御寒.canvas",
+    "Lyrics.canvas",
+    "老崔.canvas",
     "Welcome.md"
   ]
 }
