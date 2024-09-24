@@ -15,9 +15,9 @@
               "state": {
                 "file": "老崔.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0.5,
-                  "zoom": -3.2031591035123963
+                  "x": -4556.455204611716,
+                  "y": 2634.1159403553447,
+                  "zoom": -0.6666666666666663
                 }
               }
             }
@@ -72,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "adf473939345de1e",
@@ -136,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,9 +150,11 @@
   },
   "active": "87b34795e235e7bc",
   "lastOpenFiles": [
-    "御寒.canvas",
-    "ModCard.png",
+    "未命名.canvas",
     "老崔.canvas",
+    "Pasted image 20240924145003.png",
+    "ModCard.png",
+    "御寒.canvas",
     "Welcome.md"
   ]
 }
