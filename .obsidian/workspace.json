@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "老崔.canvas",
+                "file": "Lyrics.canvas",
                 "viewState": {
-                  "x": -4556.455204611716,
-                  "y": 2634.1159403553447,
-                  "zoom": -0.6666666666666663
+                  "x": 230,
+                  "y": -55.5,
+                  "zoom": -3.3945804742873293
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "老崔.canvas",
+                "file": "Lyrics.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "老崔.canvas",
+                "file": "Lyrics.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "老崔.canvas"
+                "file": "Lyrics.canvas"
               }
             }
           }
@@ -150,11 +150,12 @@
   },
   "active": "87b34795e235e7bc",
   "lastOpenFiles": [
-    "未命名.canvas",
-    "老崔.canvas",
-    "Pasted image 20240924145003.png",
     "ModCard.png",
+    "老崔.canvas",
+    "Lyrics.canvas",
     "御寒.canvas",
+    "未命名.canvas",
+    "Pasted image 20240924145003.png",
     "Welcome.md"
   ]
 }
