@@ -11,18 +11,43 @@
             "id": "87b34795e235e7bc",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "建筑草稿.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29865c1215f2bde9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "建筑草稿.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12d9f86d9ef506b5",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
                 "file": "Lyrics.canvas",
                 "viewState": {
-                  "x": 230,
-                  "y": -55.5,
-                  "zoom": -3.3945804742873293
+                  "x": 803.1969813117965,
+                  "y": -151.55284293456907,
+                  "zoom": -0.1519472605132569
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +114,7 @@
               "type": "backlink",
               "state": {
                 "file": "Lyrics.canvas",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -136,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,14 +174,36 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "87b34795e235e7bc",
+  "active": "12d9f86d9ef506b5",
   "lastOpenFiles": [
-    "ModCard.png",
+    "建筑草稿.md",
     "老崔.canvas",
     "Lyrics.canvas",
+    "ModCard.png",
+    "猫猫建筑/1版/未分类版.canvas",
+    "buildings/wind-turbine 3.svg",
+    "buildings/tipi.svg",
+    "buildings/pylon 1.svg",
+    "buildings/nuclear-plant.svg",
+    "buildings/modern-city.svg",
+    "buildings/magic-gate.svg",
+    "buildings/island.svg",
     "御寒.canvas",
+    "buildings/bunker-assault 1.svg",
+    "buildings/bunker-assault 1 1.svg",
+    "buildings",
+    "玩家行为树/给他转起来.canvas",
+    "猫猫建筑/咪咪中立/第一层.canvas",
+    "猫猫建筑/咪咪星/第一层.canvas",
+    "猫猫建筑/咪咪中立‘/第一层.md",
+    "猫猫建筑/咪咪科技/第一层.md",
+    "猫猫建筑/1版",
+    "玩家行为树",
+    "猫猫建筑/未命名/未命名",
+    "猫猫建筑/咪咪中立",
+    "猫猫建筑/咪咪星",
+    "猫猫建筑",
     "未命名.canvas",
-    "Pasted image 20240924145003.png",
     "Welcome.md"
   ]
 }
